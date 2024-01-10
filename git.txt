@@ -1,0 +1,2 @@
+1. Make Reposity
+2. Push Repository to Git Hub
