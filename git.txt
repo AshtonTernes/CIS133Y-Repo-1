@@ -1,0 +1,4 @@
+1. Make Reposity on GitHub
+2. Clone Repo to Local Machine
+3. Checkout Branch to Make Changes
+4. Push branch up to GitHub
